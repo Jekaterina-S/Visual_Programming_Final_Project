@@ -13,4 +13,4 @@ Fluid history tab with interactive entries
 Basic calculator functionality
 
 
-I chose this topic in order to gain better understanding of creating similar applications and to revise basic mathematics. It is also recommended as one of beginner projects.
+I chose this topic in order to gain better understanding of creating similar applications and to revise basic mathematics. It is also recommended as one of beginner coding projects.
